@@ -3,7 +3,7 @@ Simple TCP/IP socket pinger.
 
 **Usage:**
 ```
-python tcpstat.py [HOST] [PORT]
+python tcpstat.py [HOST] [PORT] -ssl
 ```
 
 **Example:**
